@@ -1,0 +1,93 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# REVER <img width="28%" align = "right" src="https://github.com/reyvnth/REVER/blob/main/REVERlogo.png">
+
+[![R-CMD-check](https://github.com/fanzhanglab/STew/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/fanzhanglab/STew/actions/workflows/check-standard.yaml)
+![](https://komarev.com/ghpvc/?username=fanzhanglab&style=flat-square&color=green)
+
+<!-- badges: start -->
+<!-- badges: end -->
+<p align = "justify">
+Introducing REVER
+
+
+<img width="100%" align = "center" src="https://github.com/fanzhanglab/STew/blob/main/man/figures/Figure1.png">
+
+</br>
+
+## Installation
+
+You can install the REVER Package from
+[GitHub](https://github.com/reyvnth/REVER/) using the devtools as
+follows:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("reyvnth/REVER")
+```
+(OR)
+
+``` r
+remotes::install_github("reyvnth/REVER")
+```
+<br/>
+
+### Dependencies / Other required packages
+
+- R (\>= 4.2)
+- MERINGUE (\>= 1.0)
+- loe (\>= 1.1)
+- Matrix (\>= 1.5.4)
+- ggplot2 (\>= 3.4.2)
+- ggpubr (\>= 0.6.0)
+- Seurat (\>= 4.3.0)
+- future.apply (\>= 1.10.0)
+- RANN (\>= 2.6.1)
+- sctransform
+- tibble
+
+<br/>
+
+## Tutorials
+
+
+## Citations
+
+
+<br/>
+
+## Help, Suggestion and Contribution
+
+Using github [**issues**](https://github.com/fanzhanglab/STew/issues)
+section, if you have any question, comments, suggestions, or to report
+coding related issues of STew is highly encouranged than sending
+emails.
+
+- Please **check the GitHub
+  [issues](https://github.com/fanzhanglab/STew/issues)** for similar
+  issues that has been reported and resolved. This helps the team to
+  focus on adding new features and working on cool projects instead of
+  resolving the same issues!
+- **Examples** are required when filing a GitHub issue. In certain
+  cases, please share your STew object and related codes to understand
+  the issues.
+  
+<br/>
+
+## Contact 
+
+Please contact [reyvnth@gmail.com](reyvnth@gmail.com) for further questions or protential collaborative opportunities!
+
