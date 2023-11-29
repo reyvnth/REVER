@@ -1,7 +1,9 @@
-# REVER
+# REVER <img width="17%" align = "left" src="https://github.com/reyvnth/REVER/blob/main/REVERlogo.png">
 R Package for Everything related to Data Science
 
 
+
+
 </br>
 </br>
 </br>
@@ -12,4 +14,4 @@ R Package for Everything related to Data Science
 
 
 
----------------------------------------------------------- Coming to you Soon! ------------------------------------------------
+-------------------------------------------- Coming to you Soon! ------------------------------------------
