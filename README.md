@@ -1,4 +1,4 @@
-# REVER <img width="20%" align = "left" src="https://github.com/reyvnth/REVER/blob/main/REVERlogo.png">
+# REVER <img width="22%" align = "left" src="https://github.com/reyvnth/REVER/blob/main/REVERlogo.png">
 R Package for Everything related to Data Science
 
 
